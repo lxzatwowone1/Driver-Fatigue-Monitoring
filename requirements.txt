@@ -1,0 +1,5 @@
+hdface==0.1.3
+opencv_python==4.2.0.32
+numpy==1.16.6
+torch==1.1.0
+torchvision==0.3.0
