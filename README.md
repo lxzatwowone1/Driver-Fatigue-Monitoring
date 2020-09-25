@@ -1,6 +1,7 @@
 # Driver-Fatigue-Monitoring
 
-
+![Image text](https://github.com/lxzatwowone1/Driver-Fatigue-Monitoring/blob/master/images/1.jpg)
+![Image text](https://github.com/lxzatwowone1/Driver-Fatigue-Monitoring/blob/master/images/2.jpg)
 
 ## Introduction
 
